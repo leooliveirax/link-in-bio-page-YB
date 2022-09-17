@@ -1,7 +1,3 @@
-# My link in bio page
+# Link in bio page YB
 
-My link in bio page to serve as central point to redirect to my social medias
-
-## To do:
-
-- [ ] - Implement favicon
+Link in bio page to serve as central point to redirect to YB social medias
