@@ -2,5 +2,5 @@
 
 Link in bio page to serve as central point to redirect to YB social medias
 
-To do:
- - Implement favicon
+## To do:
+ - [] - Implement favicon
