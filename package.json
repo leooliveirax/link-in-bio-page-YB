@@ -2,7 +2,7 @@
   "name": "link-in-bio-page-yb",
   "private": true,
   "version": "1.0.1",
-  "author": "Leonardo Oliveira (https://github.com/leonardoXoliveira)",
+  "author": "Leonardo X Oliveira (https://github.com/leonardoXoliveira)",
   "type": "module",
   "scripts": {
     "dev": "vite",
