@@ -1,3 +1,3 @@
 # Link in bio page YB
 
-Link in bio page to serve as central point to redirect to YB social medias
+A bio page that serves as a central hub to redirect users to YB's social media profiles.
